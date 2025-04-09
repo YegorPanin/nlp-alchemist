@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017  # Используем имя сервиса вместо localhost
+      - DB_NAME=leaderboard
+      - BOT_TOKEN=8142701752:AAHjw8S24qBcq2gOqUREocG2sJTVLyZZ83Y
+    volumes:
+      - .:/app
+    command: sh -c "sleep 10 && python bot.py"  # Даем MongoDB время на запуск
+    logging:
+      driver: "none"
+
+  mongo:
+    image: mongo:6.0
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017 --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    logging:
+      driver: "none"
+
+volumes:
+  mongodb_data:

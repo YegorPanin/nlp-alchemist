@@ -1,0 +1,430 @@
+2025-04-08 16:29:01,660 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 16:29:04,719 - __main__ - INFO - Starting bot polling
+2025-04-08 16:29:04,720 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 16:29:05,341 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 16:29:52,713 - __main__ - INFO - Start command from user 5163520397
+2025-04-08 16:29:53,098 - aiogram.event - INFO - Update id=841777135 is handled. Duration 385 ms by bot id=8142701752
+2025-04-08 16:30:02,566 - __main__ - INFO - Help command from user 5163520397
+2025-04-08 16:30:02,750 - aiogram.event - INFO - Update id=841777136 is handled. Duration 184 ms by bot id=8142701752
+2025-04-08 16:30:13,593 - __main__ - INFO - Similar words search for 'золото' by user 5163520397
+2025-04-08 16:30:13,799 - __main__ - INFO - Found 5 similar words for 'золото'
+2025-04-08 16:30:14,096 - aiogram.event - INFO - Update id=841777137 is handled. Duration 503 ms by bot id=8142701752
+2025-04-08 16:30:48,326 - aiogram.event - INFO - Update id=841777138 is handled. Duration 216 ms by bot id=8142701752
+2025-04-08 16:31:01,910 - aiogram.event - INFO - Update id=841777139 is not handled. Duration 2 ms by bot id=8142701752
+2025-04-08 16:31:35,311 - __main__ - INFO - Semantic mix request for words: ['привет', 'мир'] with weights: [0.1, 0.9] by user 5163520397
+2025-04-08 16:31:35,362 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 16:31:35,576 - aiogram.event - INFO - Update id=841777140 is handled. Duration 265 ms by bot id=8142701752
+2025-04-08 16:32:42,184 - __main__ - INFO - Analogy request: мир:война::земля:? by user 5163520397
+2025-04-08 16:32:42,234 - __main__ - INFO - Found 5 analogy results
+2025-04-08 16:32:42,405 - aiogram.event - INFO - Update id=841777141 is handled. Duration 222 ms by bot id=8142701752
+2025-04-08 16:35:56,031 - __main__ - INFO - Analogy request: земля:мир::война:? by user 5163520397
+2025-04-08 16:35:58,315 - __main__ - INFO - Found 5 analogy results
+2025-04-08 16:35:58,522 - aiogram.event - INFO - Update id=841777142 is handled. Duration 2516 ms by bot id=8142701752
+2025-04-08 16:37:27,064 - aiogram.event - INFO - Update id=841777143 is handled. Duration 337 ms by bot id=8142701752
+2025-04-08 16:37:40,334 - __main__ - INFO - Between words search: день and ночь by user 5163520397
+2025-04-08 16:37:42,652 - __main__ - INFO - Found 5 between words results
+2025-04-08 16:37:42,954 - aiogram.event - INFO - Update id=841777144 is handled. Duration 2619 ms by bot id=8142701752
+2025-04-08 16:38:03,315 - __main__ - INFO - Between words search: солнце and заря by user 5163520397
+2025-04-08 16:38:05,384 - __main__ - INFO - Found 5 between words results
+2025-04-08 16:38:05,528 - aiogram.event - INFO - Update id=841777145 is handled. Duration 2214 ms by bot id=8142701752
+2025-04-08 16:38:25,450 - __main__ - INFO - Between words search: небо and земля by user 5163520397
+2025-04-08 16:38:27,513 - __main__ - INFO - Found 5 between words results
+2025-04-08 16:38:27,670 - aiogram.event - INFO - Update id=841777146 is handled. Duration 2219 ms by bot id=8142701752
+2025-04-08 16:40:28,419 - __main__ - INFO - Similar words search for 'ок' by user 5163520397
+2025-04-08 16:40:28,472 - __main__ - INFO - Found 5 similar words for 'ок'
+2025-04-08 16:40:28,652 - aiogram.event - INFO - Update id=841777147 is handled. Duration 233 ms by bot id=8142701752
+2025-04-08 16:40:42,124 - __main__ - INFO - Similar words search for 'окей' by user 5163520397
+2025-04-08 16:40:42,171 - __main__ - INFO - Found 5 similar words for 'окей'
+2025-04-08 16:40:42,393 - aiogram.event - INFO - Update id=841777148 is handled. Duration 268 ms by bot id=8142701752
+2025-04-08 16:40:53,959 - __main__ - INFO - Similar words search for 'вупс' by user 5163520397
+2025-04-08 16:40:54,112 - aiogram.event - INFO - Update id=841777149 is handled. Duration 153 ms by bot id=8142701752
+2025-04-08 16:53:55,937 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 16:53:56,069 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 16:53:56,080 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 16:53:56,437 - __main__ - INFO - Bot polling stopped
+2025-04-08 19:19:46,938 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:19:51,017 - __main__ - INFO - Starting bot polling
+2025-04-08 19:19:51,019 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:19:51,021 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 19:22:22,397 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:22:26,450 - __main__ - INFO - Starting bot polling
+2025-04-08 19:22:26,452 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:22:26,453 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 19:24:27,112 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:27:05,123 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:27:08,731 - __main__ - INFO - Starting bot polling
+2025-04-08 19:27:08,734 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:27:08,869 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:27:46,872 - __main__ - INFO - Commands list requested by user 5163520397
+2025-04-08 19:27:47,299 - aiogram.event - INFO - Update id=841777150 is handled. Duration 427 ms by bot id=8142701752
+2025-04-08 19:28:20,409 - aiogram.event - INFO - Update id=841777151 is not handled. Duration 2 ms by bot id=8142701752
+2025-04-08 19:28:38,460 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 19:28:38,463 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:28:38,464 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 19:28:38,723 - __main__ - INFO - Bot polling stopped
+2025-04-08 19:29:13,320 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:29:16,716 - __main__ - INFO - Starting bot polling
+2025-04-08 19:29:16,717 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:29:16,838 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:29:41,364 - aiogram.event - INFO - Update id=841777152 is handled. Duration 445 ms by bot id=8142701752
+2025-04-08 19:30:02,015 - __main__ - INFO - Analogy request: король:мужчина::королева:? by user 5163520397
+2025-04-08 19:30:02,353 - aiogram.event - INFO - Update id=841777153 is handled. Duration 338 ms by bot id=8142701752
+2025-04-08 19:31:09,549 - __main__ - INFO - Similar words search for 'корова' by user 5163520397
+2025-04-08 19:31:10,044 - __main__ - INFO - Found 5 similar words for 'корова'
+2025-04-08 19:31:10,257 - aiogram.event - INFO - Update id=841777154 is handled. Duration 709 ms by bot id=8142701752
+2025-04-08 19:33:34,087 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 19:33:34,088 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:33:34,089 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 19:33:34,348 - __main__ - INFO - Bot polling stopped
+2025-04-08 19:35:58,080 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:36:01,998 - __main__ - INFO - Starting bot polling
+2025-04-08 19:36:02,001 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:36:02,127 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:36:09,110 - __main__ - INFO - Semantic mix request for expression: корова молоко by user 5163520397
+2025-04-08 19:36:09,508 - aiogram.event - INFO - Update id=841777155 is handled. Duration 398 ms by bot id=8142701752
+2025-04-08 19:36:28,301 - __main__ - INFO - Semantic mix request for expression: корова + молоко - вымя by user 5163520397
+2025-04-08 19:36:28,512 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 19:36:28,749 - aiogram.event - INFO - Update id=841777156 is handled. Duration 448 ms by bot id=8142701752
+2025-04-08 19:36:55,356 - __main__ - INFO - Semantic mix request for expression: корова + молоко - вымя 0.1 0.1 0.1 by user 5163520397
+2025-04-08 19:36:55,587 - aiogram.event - INFO - Update id=841777157 is handled. Duration 231 ms by bot id=8142701752
+2025-04-08 19:37:09,507 - __main__ - INFO - Semantic mix request for expression: корова + молоко - вымя 0.1 0.1 by user 5163520397
+2025-04-08 19:37:09,668 - aiogram.event - INFO - Update id=841777158 is handled. Duration 161 ms by bot id=8142701752
+2025-04-08 19:37:21,489 - __main__ - INFO - Semantic mix request for expression: корова + молоко - вымя 0.1 0.9 by user 5163520397
+2025-04-08 19:37:21,630 - aiogram.event - INFO - Update id=841777159 is handled. Duration 141 ms by bot id=8142701752
+2025-04-08 19:38:01,850 - __main__ - INFO - Semantic mix request for expression: корова - бык by user 5163520397
+2025-04-08 19:38:01,902 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 19:38:02,047 - aiogram.event - INFO - Update id=841777160 is handled. Duration 197 ms by bot id=8142701752
+2025-04-08 19:39:44,196 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 19:39:44,200 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:39:44,203 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 19:39:44,463 - __main__ - INFO - Bot polling stopped
+2025-04-08 19:59:07,222 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 19:59:08,327 - __main__ - INFO - Starting bot polling
+2025-04-08 19:59:08,330 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 19:59:08,472 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 19:59:23,865 - __main__ - INFO - Commands list requested by user 5163520397
+2025-04-08 19:59:24,433 - aiogram.event - INFO - Update id=841777161 is handled. Duration 569 ms by bot id=8142701752
+2025-04-08 19:59:37,827 - __main__ - INFO - Semantic mix request for expression: корова ящер by user 5163520397
+2025-04-08 19:59:38,034 - aiogram.event - INFO - Update id=841777162 is handled. Duration 207 ms by bot id=8142701752
+2025-04-08 19:59:50,021 - __main__ - INFO - Semantic mix request for expression: корова + ящер by user 5163520397
+2025-04-08 19:59:50,213 - aiogram.event - INFO - Update id=841777163 is handled. Duration 192 ms by bot id=8142701752
+2025-04-08 20:00:01,241 - __main__ - INFO - Semantic mix request for expression: 1 корова + 1 молоко by user 5163520397
+2025-04-08 20:00:01,494 - aiogram.event - INFO - Update id=841777164 is handled. Duration 253 ms by bot id=8142701752
+2025-04-08 20:00:10,959 - __main__ - INFO - Help command from user 5163520397
+2025-04-08 20:00:11,129 - aiogram.event - INFO - Update id=841777165 is handled. Duration 170 ms by bot id=8142701752
+2025-04-08 20:00:35,024 - __main__ - INFO - Semantic mix request for expression: 0.5 корова + 0.1 бык - 0.2 вымя by user 5163520397
+2025-04-08 20:00:35,174 - aiogram.event - INFO - Update id=841777166 is handled. Duration 150 ms by bot id=8142701752
+2025-04-08 20:03:46,393 - aiogram.event - INFO - Update id=841777167 is handled. Duration 179 ms by bot id=8142701752
+2025-04-08 20:03:52,573 - __main__ - INFO - Similar words search for 'три' by user 5163520397
+2025-04-08 20:03:52,745 - aiogram.event - INFO - Update id=841777168 is handled. Duration 172 ms by bot id=8142701752
+2025-04-08 20:04:01,514 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 20:04:01,517 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 20:04:01,518 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 20:04:01,771 - __main__ - INFO - Bot polling stopped
+2025-04-08 20:04:21,735 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 20:04:24,232 - __main__ - INFO - Starting bot polling
+2025-04-08 20:04:24,234 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 20:04:24,354 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 20:04:35,825 - aiogram.event - INFO - Update id=841777169 is handled. Duration 399 ms by bot id=8142701752
+2025-04-08 20:04:44,518 - __main__ - INFO - Similar words search for 'кот' by user 5163520397
+2025-04-08 20:04:44,685 - aiogram.event - INFO - Update id=841777170 is handled. Duration 168 ms by bot id=8142701752
+2025-04-08 20:04:57,887 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 20:04:57,889 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 20:04:57,889 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 20:04:58,148 - __main__ - INFO - Bot polling stopped
+2025-04-08 20:26:19,758 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 20:26:22,270 - __main__ - INFO - Starting bot polling
+2025-04-08 20:26:22,274 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 20:26:22,413 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 20:26:29,778 - __main__ - INFO - Help command from user 5163520397
+2025-04-08 20:26:30,295 - aiogram.event - INFO - Update id=841777171 is handled. Duration 517 ms by bot id=8142701752
+2025-04-08 20:26:43,393 - __main__ - INFO - Between words search: день and ночь by user 5163520397
+2025-04-08 20:26:50,396 - __main__ - INFO - Found 5 between words results
+2025-04-08 20:26:50,863 - aiogram.event - INFO - Update id=841777172 is handled. Duration 9307 ms by bot id=8142701752
+2025-04-08 20:27:08,714 - __main__ - INFO - Semantic mix request for expression: день - ночь by user 5163520397
+2025-04-08 20:27:08,938 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 20:27:09,188 - aiogram.event - INFO - Update id=841777173 is handled. Duration 476 ms by bot id=8142701752
+2025-04-08 20:27:25,005 - __main__ - INFO - Semantic mix request for expression: ночь - день by user 5163520397
+2025-04-08 20:27:25,083 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 20:27:25,344 - aiogram.event - INFO - Update id=841777174 is handled. Duration 340 ms by bot id=8142701752
+2025-04-08 20:27:40,796 - __main__ - INFO - Semantic mix request for expression: ночь * 3 by user 5163520397
+2025-04-08 20:27:40,974 - aiogram.event - INFO - Update id=841777175 is handled. Duration 178 ms by bot id=8142701752
+2025-04-08 20:27:48,245 - __main__ - INFO - Semantic mix request for expression: ночь + ночь by user 5163520397
+2025-04-08 20:27:48,296 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-08 20:27:48,470 - aiogram.event - INFO - Update id=841777176 is handled. Duration 225 ms by bot id=8142701752
+2025-04-08 20:28:15,420 - __main__ - INFO - Similar words search for 'корова' by user 5163520397
+2025-04-08 20:28:15,480 - __main__ - INFO - Found 5 similar words for 'корова'
+2025-04-08 20:28:15,751 - aiogram.event - INFO - Update id=841777177 is handled. Duration 333 ms by bot id=8142701752
+2025-04-08 20:28:28,755 - __main__ - INFO - Similar words search for 'корова' by user 5163520397
+2025-04-08 20:28:28,806 - __main__ - INFO - Found 6 similar words for 'корова'
+2025-04-08 20:28:29,092 - aiogram.event - INFO - Update id=841777178 is handled. Duration 337 ms by bot id=8142701752
+2025-04-08 20:28:45,887 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-08 20:28:45,962 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 20:28:45,983 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 20:28:46,395 - __main__ - INFO - Bot polling stopped
+2025-04-09 00:02:13,552 - __main__ - INFO - Initializing AlchemyBot
+2025-04-09 00:02:14,231 - __main__ - INFO - Starting bot polling
+2025-04-09 00:02:14,232 - aiogram.dispatcher - INFO - Start polling
+2025-04-09 00:02:14,324 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-09 00:02:42,749 - __main__ - INFO - Help command from user 5163520397
+2025-04-09 00:02:43,240 - aiogram.event - INFO - Update id=841777179 is handled. Duration 491 ms by bot id=8142701752
+2025-04-09 00:02:45,972 - aiogram.event - INFO - Update id=841777180 is handled. Duration 116 ms by bot id=8142701752
+2025-04-09 00:02:56,553 - __main__ - INFO - Between words search: кот and жеребец by user 5163520397
+2025-04-09 00:03:00,916 - __main__ - INFO - Found 5 between words results
+2025-04-09 00:03:01,098 - aiogram.event - INFO - Update id=841777181 is handled. Duration 4545 ms by bot id=8142701752
+2025-04-09 00:03:08,652 - aiogram.event - INFO - Update id=841777182 is handled. Duration 167 ms by bot id=8142701752
+2025-04-09 00:03:19,878 - __main__ - INFO - Semantic mix request for expression: кот + жеребец by user 5163520397
+2025-04-09 00:03:19,912 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-09 00:03:20,144 - aiogram.event - INFO - Update id=841777183 is handled. Duration 265 ms by bot id=8142701752
+2025-04-09 00:03:33,991 - __main__ - INFO - Semantic mix request for expression: кот + 2 жеребец by user 5163520397
+2025-04-09 00:03:34,007 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-09 00:03:34,178 - aiogram.event - INFO - Update id=841777184 is handled. Duration 188 ms by bot id=8142701752
+2025-04-09 00:03:51,687 - __main__ - INFO - Semantic mix request for expression: кот + лошадь by user 5163520397
+2025-04-09 00:03:51,703 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-09 00:03:51,859 - aiogram.event - INFO - Update id=841777185 is handled. Duration 171 ms by bot id=8142701752
+2025-04-09 00:04:14,107 - __main__ - INFO - Semantic mix request for expression: огонь + вода by user 5163520397
+2025-04-09 00:04:14,122 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-09 00:04:14,278 - aiogram.event - INFO - Update id=841777186 is handled. Duration 171 ms by bot id=8142701752
+2025-04-09 00:04:40,255 - __main__ - INFO - Semantic mix request for expression: земля + вода by user 5163520397
+2025-04-09 00:04:40,271 - __main__ - INFO - Semantic mix completed with 5 results
+2025-04-09 00:04:40,397 - aiogram.event - INFO - Update id=841777187 is handled. Duration 142 ms by bot id=8142701752
+2025-04-09 00:05:05,355 - __main__ - INFO - Analogy request: кот:собака::картошка:? by user 5163520397
+2025-04-09 00:05:06,258 - __main__ - INFO - Found 5 analogy results
+2025-04-09 00:05:06,427 - aiogram.event - INFO - Update id=841777188 is handled. Duration 1071 ms by bot id=8142701752
+2025-04-09 00:05:42,797 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-09 00:05:42,798 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-09 00:05:42,799 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-09 00:05:43,051 - __main__ - INFO - Bot polling stopped
+2025-04-08 23:27:18,886 - __main__ - INFO - Initializing AlchemyBot
+2025-04-08 23:27:19,434 - __main__ - INFO - Starting bot polling
+2025-04-08 23:27:19,435 - aiogram.dispatcher - INFO - Start polling
+2025-04-08 23:27:19,519 - aiogram.dispatcher - INFO - Run polling for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 23:28:15,183 - __main__ - INFO - Start command from user 5163520397
+2025-04-08 23:28:15,552 - aiogram.event - INFO - Update id=841777189 is handled. Duration 368 ms by bot id=8142701752
+2025-04-08 23:28:21,055 - aiogram.event - INFO - Update id=841777190 is not handled. Duration 0 ms by bot id=8142701752
+2025-04-08 23:28:28,095 - __main__ - INFO - Leaderboard requested by user 5163520397
+2025-04-08 23:28:39,560 - __main__ - INFO - Leaderboard requested by user 5163520397
+2025-04-08 23:28:46,298 - aiogram.event - INFO - Update id=841777193 is handled. Duration 119 ms by bot id=8142701752
+2025-04-08 23:28:58,077 - __main__ - INFO - Between words search: кошка and собака by user 5163520397
+2025-04-08 23:28:58,184 - __main__ - ERROR - Error in leaders command: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-08 23:28:58,185 - aiogram.event - INFO - Update id=841777191 is not handled. Duration 30089 ms by bot id=8142701752
+2025-04-08 23:28:58,186 - aiogram.event - ERROR - Cause exception while process update id=841777191 by bot id=8142701752
+KeyError: 'default'
+Traceback (most recent call last):
+  File "/app/bot.py", line 326, in show_leaders
+    leaders = await self.leaderboard.get_leaderboard(10)
+  File "/app/leaderboard.py", line 56, in get_leaderboard
+    async for user in self.users.find().sort("score", DESCENDING).limit(limit):
+  File "/usr/local/lib/python3.10/site-packages/motor/core.py", line 1425, in next
+    if self.alive and (self._buffer_size() or await self._get_more()):
+  File "/usr/local/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1208, in _refresh
+    self._send_message(q)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1102, in _send_message
+    response = client._run_operation(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1896, in _run_operation
+    return self._retryable_read(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2005, in _retryable_read
+    return self._retry_internal(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1972, in _retry_internal
+    ).run()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2709, in run
+    return self._read() if self._is_read else self._write()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2854, in _read
+    self._server = self._get_server()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2802, in _get_server
+    return self._client._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1791, in _select_server
+    server = topology.select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 409, in select_server
+    server = self._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 387, in _select_server
+    servers = self.select_servers(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 294, in select_servers
+    server_descriptions = self._select_servers_loop(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 344, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/app/bot.py", line 350, in show_leaders
+    await message.answer(ERRORS['default'])
+KeyError: 'default'
+2025-04-08 23:29:00,251 - __main__ - INFO - Found 5 between words results
+2025-04-08 23:29:09,723 - __main__ - ERROR - Error in leaders command: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-08 23:29:09,724 - aiogram.event - INFO - Update id=841777192 is not handled. Duration 30163 ms by bot id=8142701752
+2025-04-08 23:29:09,724 - aiogram.event - ERROR - Cause exception while process update id=841777192 by bot id=8142701752
+KeyError: 'default'
+Traceback (most recent call last):
+  File "/app/bot.py", line 326, in show_leaders
+    leaders = await self.leaderboard.get_leaderboard(10)
+  File "/app/leaderboard.py", line 56, in get_leaderboard
+    async for user in self.users.find().sort("score", DESCENDING).limit(limit):
+  File "/usr/local/lib/python3.10/site-packages/motor/core.py", line 1425, in next
+    if self.alive and (self._buffer_size() or await self._get_more()):
+  File "/usr/local/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1208, in _refresh
+    self._send_message(q)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1102, in _send_message
+    response = client._run_operation(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1896, in _run_operation
+    return self._retryable_read(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2005, in _retryable_read
+    return self._retry_internal(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1972, in _retry_internal
+    ).run()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2709, in run
+    return self._read() if self._is_read else self._write()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2854, in _read
+    self._server = self._get_server()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2802, in _get_server
+    return self._client._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1791, in _select_server
+    server = topology.select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 409, in select_server
+    server = self._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 387, in _select_server
+    servers = self.select_servers(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 294, in select_servers
+    server_descriptions = self._select_servers_loop(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 344, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/usr/local/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/app/bot.py", line 350, in show_leaders
+    await message.answer(ERRORS['default'])
+KeyError: 'default'
+2025-04-08 23:29:21,043 - __main__ - INFO - Commands list requested by user 5163520397
+2025-04-08 23:29:21,614 - aiogram.event - INFO - Update id=841777195 is handled. Duration 570 ms by bot id=8142701752
+2025-04-08 23:29:30,783 - __main__ - ERROR - Error in between command: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+Traceback (most recent call last):
+  File "/app/bot.py", line 295, in between
+    if await self.check_similarity(message.from_user, results[0][0], max_similarity):
+  File "/app/bot.py", line 60, in check_similarity
+    if not await self.leaderboard.get_user(user.id):
+  File "/app/leaderboard.py", line 32, in get_user
+    return await self.users.find_one({"user_id": user_id})
+  File "/usr/local/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/collection.py", line 1755, in find_one
+    for result in cursor.limit(-1):
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1284, in __next__
+    return self.next()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1260, in next
+    if len(self._data) or self._refresh():
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1208, in _refresh
+    self._send_message(q)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/cursor.py", line 1102, in _send_message
+    response = client._run_operation(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1896, in _run_operation
+    return self._retryable_read(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2005, in _retryable_read
+    return self._retry_internal(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1972, in _retry_internal
+    ).run()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2709, in run
+    return self._read() if self._is_read else self._write()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2854, in _read
+    self._server = self._get_server()
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 2802, in _get_server
+    return self._client._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/mongo_client.py", line 1791, in _select_server
+    server = topology.select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 409, in select_server
+    server = self._select_server(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 387, in _select_server
+    servers = self.select_servers(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 294, in select_servers
+    server_descriptions = self._select_servers_loop(
+  File "/usr/local/lib/python3.10/site-packages/pymongo/synchronous/topology.py", line 344, in _select_servers_loop
+    raise ServerSelectionTimeoutError(
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 67f5b0d662e8d9c80a65179d, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-04-08 23:29:30,883 - aiogram.event - INFO - Update id=841777194 is handled. Duration 32806 ms by bot id=8142701752
+2025-04-08 23:29:54,788 - aiogram.dispatcher - WARNING - Received SIGTERM signal
+2025-04-08 23:29:54,789 - aiogram.dispatcher - INFO - Polling stopped for bot @nlp_alchemist_bot id=8142701752 - 'Нейроалхимик'
+2025-04-08 23:29:54,790 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-08 23:29:55,041 - __main__ - INFO - Bot polling stopped
+2025-04-08 23:45:50,282 - __main__ - INFO - Initializing AlchemyBot
