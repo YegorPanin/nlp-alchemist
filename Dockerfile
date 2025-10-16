@@ -5,7 +5,12 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY *.py .
+COPY bot.py .
+COPY leaderboard.py .
+COPY replicas.py .
+COPY database.py .
+COPY alchemist.py .
+
 COPY word_embeddings.faiss .
 COPY words.list .
 

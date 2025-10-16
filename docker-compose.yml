@@ -8,7 +8,7 @@ services:
     environment:
       - MONGO_URI=mongodb://mongo:27017  # Используем имя сервиса вместо localhost
       - DB_NAME=leaderboard
-      - BOT_TOKEN=8142701752:AAHjw8S24qBcq2gOqUREocG2sJTVLyZZ83Y
+      - BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN_HERE
     volumes:
       - .:/app
     command: sh -c "sleep 10 && python bot.py"  # Даем MongoDB время на запуск
