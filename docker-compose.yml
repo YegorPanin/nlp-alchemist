@@ -8,12 +8,15 @@ services:
     environment:
       - MONGO_URI=mongodb://mongo:27017  # Используем имя сервиса вместо localhost
       - DB_NAME=leaderboard
-      - BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN_HERE
+      - BOT_TOKEN=8142701752:AAHjw8S24qBcq2gOqUREocG2sJTVLyZZ83Y
     volumes:
       - .:/app
-    command: sh -c "sleep 10 && python bot.py"  # Даем MongoDB время на запуск
-    logging:
-      driver: "none"
+    command: >
+      sh -c "
+        sleep 10 &&  # Wait for MongoDB
+        python download_models.py &&  # Download dataset files
+        python bot.py
+      "
 
   mongo:
     image: mongo:6.0
@@ -26,8 +29,6 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
-    logging:
-      driver: "none"
 
 volumes:
   mongodb_data:

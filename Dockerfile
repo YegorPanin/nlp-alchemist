@@ -10,8 +10,6 @@ COPY leaderboard.py .
 COPY replicas.py .
 COPY database.py .
 COPY alchemist.py .
-
-COPY word_embeddings.faiss .
-COPY words.list .
+COPY download_models.py .
 
 CMD ["python", "bot.py"]
