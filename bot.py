@@ -60,7 +60,7 @@ class AlchemyBot:
         if not await self.leaderboard.get_user(user.id):
             await self.leaderboard.create_user(user.id, user.first_name)
         
-        if similarity > 0.8:
+        if similarity > 0.8:  # Снизили порог для новых слов
             await self.leaderboard.increment_score(user.id, 1)
             await self.leaderboard.add_words(user.id, [word])
             return True
@@ -117,7 +117,9 @@ class AlchemyBot:
                     count = 5
                 
                 logger.info(f"Similar words search for '{word}' by user {message.from_user.id}")
-                results = await self.alchemist.find_similar_words(word, k=count)
+                results = await self.alchemist.find_similar_words(word, k=count+1)  # Запрашиваем на 1 больше
+                # Фильтруем исходное слово из результатов
+                results = [(w, s) for w, s in results if w.lower() != word.lower()][:count]
                 logger.info(f"Found {len(results)} similar words for '{word}'")
                 formatted = "\n".join(f"{i+1}. [{w}] ({s:.2f})" for i, (w, s) in enumerate(results))
                 response = RESPONSES['similar_results'].format(
